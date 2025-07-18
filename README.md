@@ -8,7 +8,7 @@
 
 [<img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" />](https://www.linkedin.com/in/naveen-kumar-thumu/)
 [<img src="https://img.icons8.com/ios-filled/30/1877F2/facebook-new.png" alt="Facebook" />](https://www.facebook.com/thumu.naveenkumar)
-[<img src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png" alt="Instagram" />]((https://www.instagram.com/ntechhub_edu/))
+[<img src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png" alt="Instagram" />](https://www.instagram.com/ntechhub_edu/)
 [<img src="https://img.icons8.com/ios-filled/30/000000/domain.png" alt="Website" />](https://ntechhubedu.com/)
 [<img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail" />](mailto:naveen.tableau18@gmail.com)
 
