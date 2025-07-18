@@ -11,6 +11,8 @@
 [<img src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png" alt="Instagram" />]([https://www.instagram.com/your-username](https://www.instagram.com/ntechhub_edu/))
 [<img src="https://img.icons8.com/ios-filled/30/000000/domain.png" alt="Website" />](https://ntechhubedu.com/)
 [<img src="https://img.icons8.com/ios-filled/30/000000/email.png" alt="email" />](mailto:naveen.tableau18@gmail.com )
+[<img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail" />](mailto:yourname@gmail.com)
+
 
 
 **Languages and Tools**  **:**
